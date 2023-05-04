@@ -1,6 +1,14 @@
 # ParaDice
 
-Le projet est une application Flutter Avec un écran de chargement un menu et un drawer qui emene sur des pages qui permette de manipuler des dé ou liste de dé avec moyenne des lancées 
+Le projet est une application Flutter qui permet de manipuler des dé ou liste de dé avec moyenne des lancées 
+
+Voici une vidéo de l'application en marche:
+https://youtu.be/B0cHh-s9QCI
+
+et voici quelques screen de l'application en elle meme:
+
+
+
 Le programme utilise des Classe abstraite
 
 Explication des fichiers :
