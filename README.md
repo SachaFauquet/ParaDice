@@ -2,8 +2,7 @@
 
 Le projet est une application Flutter qui permet de manipuler des dé ou liste de dé avec moyenne des lancées 
 
-Voici une vidéo de l'application en marche:
-https://youtu.be/B0cHh-s9QCI
+Voici une vidéo de l'application en marche [ici](https://youtu.be/B0cHh-s9QCI)
 
 et voici quelques screen de l'application en elle meme:
 
