@@ -13,6 +13,12 @@ et voici quelques screen de l'application en elle meme:
 ![menu](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/menu.PNG?raw=true)
 ![drawer](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/menu%20drawer.PNG?raw=true)
 
+## Statistique
+![stats](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/stats.PNG?raw=true)
+
+## Dé personnalisé
+![perso](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/perso.PNG?raw=true)
+
 ## Explication du Code
 
 Le programme utilise des Classe abstraite
