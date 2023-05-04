@@ -9,6 +9,9 @@ et voici quelques screen de l'application en elle meme:
 ## Ecran de chargement
 ![splashscreen](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/spashscreen.png?raw=true)
 
+## Menu avec drawer
+![menu](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/menu.PNG?raw=true)
+![drawer](https://github.com/SachaFauquet/ParaDice/blob/main/paradice/menu%20drawer.PNG?raw=true)
 
 ## Explication du Code
 
