@@ -6,6 +6,9 @@ Voici une vidéo de l'application en marche [ici](https://youtu.be/B0cHh-s9QCI)
 
 et voici quelques screen de l'application en elle meme:
 
+## Ecran de chargement
+![splashscreen](https://zupimages.net/viewer.php?id=23/18/5c3y.png)
+
 
 ## Explication du Code
 
